@@ -1,0 +1,15 @@
+{
+  "name": "IoTxChain",
+  "version": "1.0.7",
+  "description": "Blockchain Solana Transaction Library for ESP32 (C++)",
+  "keywords": ["solana", "esp32", "blockchain", "anchor", "iot"],
+  "authors": [
+    {
+      "name": "asimbugra",
+      "email": "asimbugra1@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "frameworks": ["arduino"],
+  "platforms": ["*"]
+}
